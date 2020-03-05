@@ -1,2 +1,8 @@
-body {background:red;
+body {
+    background:red;
+}
+p{
+    font-size: 80px;
+    font-family:  'Arial';
+    color: yellow;
 }
